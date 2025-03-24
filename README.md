@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  [![Visitas](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square)](https://github.com/your-github-username)
+  [![Visitas](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square)](https://github.com/rebio2)
 </div>
 
 ## 💻 Desarrollador Web Full Stack
