@@ -68,7 +68,3 @@ Sistema completo de gestión de usuarios con funcionalidades de Crear, Leer, Act
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love"/>
-</div>
